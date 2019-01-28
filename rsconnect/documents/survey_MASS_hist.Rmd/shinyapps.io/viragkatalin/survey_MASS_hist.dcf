@@ -1,0 +1,12 @@
+name: survey_MASS_hist
+title: survey_MASS_hist
+username:
+account: viragkatalin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 670506
+bundleId: 1841624
+url: https://viragkatalin.shinyapps.io/survey_MASS_hist/
+when: 1548691743.80789
+asMultiple: FALSE
+asStatic: FALSE
